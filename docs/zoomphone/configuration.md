@@ -3,7 +3,7 @@
 After installation, configure the widget to ensure smooth operation.
 
 ## Zoom Login
-
+- Before Logging In ,Please whiteList Your Domain in zoom smartphone embed manage portal
 - Enter **Zoom email and password** in the iframe.  
 - No additional credentials or API keys are required.
 
@@ -18,3 +18,4 @@ After installation, configure the widget to ensure smooth operation.
 
 - Clicking a ticket in the widget opens it directly in Zendesk.  
 - Ensure agents have permissions to view tickets assigned to them.
+
